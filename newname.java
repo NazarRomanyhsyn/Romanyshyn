@@ -1,4 +1,4 @@
-public class newname {
+/*public class newname {
     public static void main(String[] args) {
         String newname = "Nazar";
         int i = 0;
@@ -7,4 +7,4 @@ public class newname {
             i++;
         }
     }
-}
+}*/

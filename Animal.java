@@ -1,8 +1,20 @@
-public class Animal{
-    public void main(){
-        System.out.println("I can actually move faster than you");
+/*public class Animal {
+    public Animal(String name, int age) {
+        this.name = name;
+        this.age = age;
     }
-    public void say(){
-        System.out.println("Arrrgggghhhh");
+    public String name;
+    public int age;
+    public int step = 0;
+
+    public void go() {
+        step++;
+        System.out.println(step);
     }
-}
+    public void say() {
+        System.out.println("Arrrrgggghhhh");
+    }
+    public void printinfo(){
+        System.out.println(name +" " + age);
+    }
+}*/

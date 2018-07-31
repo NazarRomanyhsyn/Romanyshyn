@@ -1,4 +1,4 @@
-public class moreless {
+/*public class moreless {
     public static void main (String[] args) {
         int i = 33;
         if ( i > 10){
@@ -8,3 +8,4 @@ public class moreless {
     }
 }
 }
+*/
