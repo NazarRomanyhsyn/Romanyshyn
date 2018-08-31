@@ -1,0 +1,12 @@
+//*[@id='p-logo']
+//*[@id='articlecount']
+//div[@id='mp-dyk']//li[4]
+//*[@id='p-interaction']//li
+
+#p-logo
+#articlecount
+#n-mainpage-description
+#mp-dyk li:nth-child(2)
+
+count(//div [@id='p-interaction']//div[@class='body']//li)
+$x ('count(//div [@id='p-interaction']//div[@class='body']//li)')
